@@ -17,9 +17,4 @@ dadadadCAPYBARA
 
 ### Aditional
 
-
-
-Database: JOOQ Liquibase/Flyway
-Testing: JUnit 5, Mockito, Testcontainers, SpringBootTest, WireMock
-Tools: CI/CD,  Swagger/OpenAPI
-Дополнительный опыт: C/C++, QT, SFML
+![Scrapper](https://github.com/user-attachments/assets/8597024a-55e5-4c57-9d3d-4c39b475efa5)
