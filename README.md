@@ -5,7 +5,7 @@ dadadadCAPYBARA
 
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,kafka,k8s,hibernate,postman,gitlab)](https://skillicons.dev)
