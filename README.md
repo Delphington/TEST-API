@@ -1,6 +1,6 @@
 dadadadCAPYBARA
 
-### Language
+### Main Language
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 
