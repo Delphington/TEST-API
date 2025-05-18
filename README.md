@@ -6,7 +6,7 @@ dadadadCAPYBARA
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,liquibase)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,kafks,k8s,swagger,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kafka,k8s,swagger,postman,gitlab)](https://skillicons.dev)
 
 
 Java Development: Java 23, Spring Boot (MVC, Data JPA, Security), Hibernate, Apache Kafka 
