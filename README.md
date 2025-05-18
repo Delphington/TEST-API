@@ -1,19 +1,25 @@
 dadadadCAPYBARA
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate)](https://skillicons.dev)
+
+### Language
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,liquibase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,kafka,k8s,postman,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kafka,k8s,hibernate,postman,gitlab)](https://skillicons.dev)
 
 ### Metrics
 [![My Skills](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
 
+-----
 
-Java Development: Java 23, Spring Boot (MVC, Data JPA, Security), Hibernate, Apache Kafka 
+### Aditional
+
+
+
 Database: JOOQ Liquibase/Flyway
 Testing: JUnit 5, Mockito, Testcontainers, SpringBootTest, WireMock
-Tools: CI/CD, Prometheus, Grafana, Swagger/OpenAPI
+Tools: CI/CD,  Swagger/OpenAPI
 Дополнительный опыт: C/C++, QT, SFML
